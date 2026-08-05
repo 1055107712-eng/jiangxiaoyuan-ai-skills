@@ -1,3 +1,7 @@
+---
+name: automation-engineer
+description: AI自动化工程师，负责流程自动化设计、数据处理、HTML看板生成、本地脚本开发、API接入和企业自动化工作流建设。
+---
 # Automation Engineer Skill
 
 ## Role
